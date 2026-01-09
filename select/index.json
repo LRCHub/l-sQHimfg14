@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "1 2 3",
+  "base_artist": "Benjazzy",
+  "createdAt": "2026-01-09T11:23:29.536606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1, 2, 3 Mississippi",
+      "artist": "Brett Young",
+      "has_synced": true,
+      "path": "select/01_1,_2,_3_Mississippi_Brett_Young.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1, 2, 3, fyre (radio versjon)",
+      "artist": "Side Brok",
+      "has_synced": false,
+      "path": "select/02_1,_2,_3,_fyre_(radio_versjon)_Side_Brok.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1 2 3 fyre",
+      "artist": "Sidebrok",
+      "has_synced": false,
+      "path": "select/03_1_2_3_fyre_Sidebrok.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ocean 1, 2, 3",
+      "artist": "The Microphones",
+      "has_synced": true,
+      "path": "select/04_Ocean_1,_2,_3_The_Microphones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Where It's Hotter Pts. 1, 2 & 3",
+      "artist": "The Microphones",
+      "has_synced": false,
+      "path": "select/05_Where_It's_Hotter_Pts._1,_2_&_3_The_Microphones.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "1, 2, 3, 4",
+      "artist": "Bomfunk MC’s",
+      "has_synced": true,
+      "path": "select/06_1,_2,_3,_4_Bomfunk_MC’s.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "1, 2, 3, 4 (feat. J.A.K.)",
+      "artist": "Bomfunk MC’s",
+      "has_synced": false,
+      "path": "select/07_1,_2,_3,_4_(feat._J.A.K.)_Bomfunk_MC’s.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cold Black Night (Takes 1, 2, 3, 4, 5 & 6)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/08_Cold_Black_Night_(Takes_1,_2,_3,_4,_5_&_6)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "1 2 3 of Me",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": true,
+      "path": "select/09_1_2_3_of_Me_Black_Moth_Super_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Need Your Love So Bad (version #1, takes 1, 2 & 3)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/10_Need_Your_Love_So_Bad_(version__1,_takes_1,_2_&_3)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stop Messin' Round - Takes 1, 2 & 3",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/11_Stop_Messin'_Round_-_Takes_1,_2_&_3_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1, 2, 3,",
+      "artist": "Beat Happening",
+      "has_synced": false,
+      "path": "select/12_1,_2,_3,_Beat_Happening.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hard Days 1.2.3.4",
+      "artist": "Loney Dear",
+      "has_synced": false,
+      "path": "select/13_Hard_Days_1.2.3.4_Loney_Dear.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "1-2-3-4",
+      "artist": "Housse de Racket",
+      "has_synced": true,
+      "path": "select/14_1-2-3-4_Housse_de_Racket.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "1,2,3,4 (Feat. J.A.K. from The Cool Sheiks)",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/15_1,2,3,4_(Feat._J.A.K._from_The_Cool_Sheiks)_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dots 1-2-3",
+      "artist": "The Apples In Stereo",
+      "has_synced": true,
+      "path": "select/16_Dots_1-2-3_The_Apples_In_Stereo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1 2 3 (feat. CFN MALIK)",
+      "artist": "Benjazzy",
+      "has_synced": false,
+      "path": "select/pl_01_1_2_3_(feat._CFN_MALIK)_Benjazzy.txt"
+    }
+  ]
+}
